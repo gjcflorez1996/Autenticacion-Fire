@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "920913456759",
+    "project_id": "fir-juan-44994",
+    "storage_bucket": "fir-juan-44994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920913456759:android:875bc43255709fcda3e072",
+        "android_client_info": {
+          "package_name": "com.example.autenticacionfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920913456759-lgvfck4dhvh2e84sui6hc9njcplai49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6zohK912QPW97vK4fK9IrLzm3GLB8_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920913456759-lgvfck4dhvh2e84sui6hc9njcplai49n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920913456759:android:d64b2da8c7c87452a3e072",
+        "android_client_info": {
+          "package_name": "com.example.autenticacionfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920913456759-lgvfck4dhvh2e84sui6hc9njcplai49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6zohK912QPW97vK4fK9IrLzm3GLB8_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920913456759-lgvfck4dhvh2e84sui6hc9njcplai49n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
